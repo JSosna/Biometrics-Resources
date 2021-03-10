@@ -6,3 +6,4 @@ Resources for Biometrics class.
 - https://www.javatpoint.com/biometrics-tutorial
 - https://en.wikipedia.org/wiki/Biometrics
 - https://medium.com/search?q=biometrics
+- https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/biometrics

@@ -16,4 +16,4 @@ Resources for Biometrics class.
 - https://medium.com/search?q=biometrics
 
 
-- https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/biometrics
+- https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/inspired/biometrics

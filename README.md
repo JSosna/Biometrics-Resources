@@ -12,6 +12,7 @@ Resources for Biometrics class.
 - image, signal processing
 - security
 
+---
 
 #### Tutorial similar to the previous one, but also contains additional information. For example about advantages and disadvantages, history.
 #### https://www.javatpoint.com/biometrics-tutorial
@@ -22,6 +23,7 @@ Resources for Biometrics class.
 - issues and concerns
 - security
 
+---
 
 #### https://en.wikipedia.org/wiki/Biometrics
 - general information
@@ -29,6 +31,8 @@ Resources for Biometrics class.
 - history
 - recent advances in emerging biometrics
 - issues and concerns
+
+---
 
 #### https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/inspired/biometrics
 - general information
@@ -38,11 +42,17 @@ Resources for Biometrics class.
 - accuracy
 - security
 
+---
+
 #### Types of biometrics.
 #### https://www.biometricsinstitute.org/what-is-biometrics/types-of-biometrics/
 
+---
+
 #### Short article about the future of biometrics. (with concerns)
 #### https://www.nice.com/engage/blog/rta-the-future-of-biometrics-reality-versus-hype-2593/
+
+---
 
 #### Here you can find many interesting articles concerning biometrics.
 #### https://medium.com/search?q=biometrics

@@ -47,11 +47,7 @@ Resources for Biometrics class.
 #### Here you can find many interesting articles concerning biometrics.
 #### https://medium.com/search?q=biometrics
 #### for example:
-Your heart is a new biometrics
-- https://medium.com/mawi-band/your-heart-is-a-new-biometrics-eda2c168f7b
-What do you do when your biometrics data gets stolen?
-- https://medium.com/technicity/what-do-you-do-when-your-biometrics-data-gets-stolen-68982fe0fdeb
-Identity Policies: The clash between democracy and biometrics
-- https://medium.com/@privacyint/identity-policies-the-clash-between-democracy-and-biometrics-95adabd9f263
-Biometrics in Android
-- https://proandroiddev.com/biometrics-in-android-50424de8d0e
+- [Your heart is a new biometrics](https://medium.com/mawi-band/your-heart-is-a-new-biometrics-eda2c168f7b)
+- [What do you do when your biometrics data gets stolen?](https://medium.com/technicity/what-do-you-do-when-your-biometrics-data-gets-stolen-68982fe0fdeb)
+- [Identity Policies: The clash between democracy and biometrics](https://medium.com/@privacyint/identity-policies-the-clash-between-democracy-and-biometrics-95adabd9f263)
+- [Biometrics in Android](https://proandroiddev.com/biometrics-in-android-50424de8d0e)

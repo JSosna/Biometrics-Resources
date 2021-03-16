@@ -13,7 +13,7 @@ Resources for Biometrics class.
 - security
 
 
-#### Tutorial simmilar to the previous one, but also contains additional information, for example about advantages and disadvantages, history.
+#### Tutorial similar to the previous one, but also contains additional information, for example about advantages and disadvantages, history.
 #### https://www.javatpoint.com/biometrics-tutorial
 - general information
 - history of biometrics
